@@ -1,3 +1,3 @@
 APP_URL=https://your-app-url.com  
 MAP_SERVICE_API_KEY=your_map_service_api_key_here  
-https://682ad22a6e7c9cdd3c745a21--lucent-dodol-3bf3b8.netlify.app/
+https://submissiondiodo.netlify.app/
